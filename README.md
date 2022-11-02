@@ -93,3 +93,5 @@ q^0 =
 -1
 \end{array}\right)
 $$
+
+These are the values used in the solverTest.java file. 
