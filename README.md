@@ -76,7 +76,7 @@ y
 \right)
 $$
 
-It is now possible to code this iterative inverse kinematics solver. In order to do so, we need to specify the desired coordinates along the object O given by $p$. The y coordinate will be given by -18, and so we arbitrarily pick an x coordinate of 70 (the x coordinate simply needs to be within the reach of the finger - so not too close or too far from the finger). Furthermore, we also need some arbitrary initial guess for $q^{0}$. Setting $\theta_{M} = 0$ and $\theta_{P} = 1$ we have:
+It is now possible to code this iterative inverse kinematics solver. In order to do so, we need to specify the desired coordinates along the object O given by $p$. The y coordinate will be given by -18, and so we arbitrarily pick an x coordinate of 70 (the x coordinate simply needs to be within the reach of the finger - so not too close or too far from the finger). Furthermore, we also need some arbitrary initial guess for $q^{0}$. Setting $\theta_{M} = 0$ and $\theta_{P} = -1$ we have:
 
 $$
 p = 
