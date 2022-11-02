@@ -1,6 +1,6 @@
 # Positioning-Robotic-Finger
 
-Using Java to code an iterative inverse kinematics solver to position a robotic finger. 
+Using Java to code an iterative inverse kinematics solver that can be used to position a robotic finger. 
 
 ## Background
 
