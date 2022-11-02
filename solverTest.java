@@ -12,7 +12,7 @@ public class solverTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		double[] pF = {75.89, -18};  // desired final coordinates
+		double[] pF = {70, -18};  // desired final coordinates
 		double[] q0 = {0 , -1};  // arbitrary first guess for joint angles
 		double[] q1 = new double[2];
 		boolean loopContinuation = true;
