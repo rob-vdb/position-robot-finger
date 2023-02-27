@@ -1,4 +1,4 @@
-# Positioning a Robotic Finger
+# Positioning a Robotic Finger (December 2021)
 
 Using Java to code an iterative inverse kinematics solver that can be used to position a robotic finger. 
 
